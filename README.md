@@ -9,7 +9,6 @@
 <p align="center">
     <a href="https://www.notion.so/Engage-Mentorship-Programme-0ac44abbe8894e1cb7792493aee5e4ce">Documentation</a>
   <span> | </span>
-  <a href="https://www.youtube.com/watch?v=HTFVZgus_wA&t=37s">Youtube Demo</a>
 </p>
 <p align="center">
   <a href="https://github.com/khyatigupta369/Moonlit_Cinema/blob/main/LICENSE">
